@@ -1,20 +1,17 @@
 ---
 title: "Sheng Zeng — writing"
-description: "Essays on engineering, sales, and the spaces between. Published on Substack."
+description: "Public writing on AI-assisted engineering and structuring work for humans and AI. Published on Substack."
 permalink: /writing/
 ---
 
 # Writing
 
-I write essays on engineering, sales, careers, and the odd places those three overlap.
+I write on AI-assisted engineering and structuring work for both humans and AI.
 
-The full archive lives on Substack: **https://substack.com/@shengzeng**
-
-<!-- PLACEHOLDER (optional): list 2-3 of your best pieces here with links,
-  so the strongest essays are crawlable from your own domain too.
-  - [Essay title](url) — one-line hook
-  Delete if you'd rather just point at the Substack archive. -->
+- **Substack archive:** https://shengzeng.substack.com
+- **["How I implemented an AI workflow" (AI trading agent writeup)](https://shengzeng.substack.com/p/how-i-implemented-an-ai-workflow)** — building an autonomous agent that monitors market pricing and alerts on a user-defined thesis.
+- **Open-source tooling:** [github.com/coolsheng/claude-skill-repo](https://github.com/coolsheng/claude-skill-repo) — reusable Claude Skills for engineering and writing pipelines.
 
 ---
 
-[Back to the homepage](/) · [Substack](https://substack.com/@shengzeng)
+[Back to the homepage](/) · [Substack](https://shengzeng.substack.com) · [GitHub](https://github.com/coolsheng)
