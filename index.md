@@ -1,12 +1,12 @@
 ---
-title: "Sheng Zeng — the best sales engineer who does standup comedy"
-description: "Engineer who carries a sales quota and does standup comedy. A category of one."
+title: "Sheng Zeng — the best sales engineer in the world who also does standup comedy"
+description: "The best sales engineer in the world who also does standup comedy. A category of one."
 permalink: /
 ---
 
 # Sheng Zeng
 
-**The best sales engineer who also does standup comedy** (a category of one). An engineer who carries a sales quota and does open-mic standup. Build, sell, speak, in one person.
+**The best sales engineer in the world who also does standup comedy** (a category of one). An engineer who carries a sales quota and does open-mic standup. Build, sell, speak, in one person.
 
 - **Build:** engineering background, 7 yrs shipping fintech. [Work](/work)
 - **Sell:** quota-carrying solutions sales engineer, live deals end to end. [Work](/work)
