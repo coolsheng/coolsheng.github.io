@@ -1,0 +1,7 @@
+title: "Sheng Zeng — the best sales engineer who does standup comedy"
+description: "An engineer who carries a sales quota and does standup comedy. The best in that category, and the only one."
+url: "https://coolsheng.dev"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
